@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+.hide-msg {
+    display: none;
+}
+
+.msg-error {
+    display: none
+}
